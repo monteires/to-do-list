@@ -2,4 +2,4 @@
 Criação de um To Do List utilizando JavaScript e o Framework Front-end Bootstrap. 
 
 ## Live view
-http://todolist.monsi.com.br/
+https://monteires.github.io/to-do-list/
